@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <id>1</id>
+    <name>Yash Jobanputra</name>
+    <email>yashjobanputra22@gmail.com</email>
+    <course>MSc ICT</course>
+  </student>
+  <student>
+    <id>2</id>
+    <name>Neha Shah</name>
+    <email>neha.shah@example.com</email>
+    <course>BCA</course>
+  </student>
+  <student>
+    <id>3</id>
+    <name>Kunal Patel</name>
+    <email>kunal.patel@example.com</email>
+    <course>BSc IT</course>
+  </student>
+</students>
